@@ -1,4 +1,4 @@
-## SAE 2.03 - Instalation de service réseau
+# SAE 2.03 - Instalation de service réseau
 
 ## Participants:
 - Codrin Potdevin
