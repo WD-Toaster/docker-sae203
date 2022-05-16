@@ -1,6 +1,6 @@
-## SAE 2.03 - Service réseau
+## SAE 2.03 - Instalation de service réseau
 
-## ** Participants: **
+## Participants:
 - Codrin Potdevin
 - Quentin Spilmont
 - Hugo Tassery 
