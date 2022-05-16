@@ -12,7 +12,7 @@ Le TP4 consiste à résoudre un conflit dans la modification d'un fichier et le 
 
 ## Lundi 16 Mai
 Nous avons installé et configurer Docker sur nos machines.
-Pour vérifier si le engine fonctionner correctement on a utilisé la commande 'docker run hello-world' puis la commande 'docker --version'.
+Pour vérifier si le engine fonctionner correctement on a utilisé la commande `docker run hello-world` puis la commande `docker --version`.
 
 ## Mardi 17 Mai
 
