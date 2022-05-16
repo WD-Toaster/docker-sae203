@@ -32,7 +32,8 @@ La prochaine étape du TP1 est l'instalation des images Alpine et httpd via les 
 #### L'interactivité sur les conteneurs
 Pour intéragir avec les conteneurs il suffit d'utiliser la commande d'ajouter `-it` a la commande, cela donne avec l'image *alpine* `docker run -it alpine`. On est maintenant dans l'image alpine dorénavant. La preuve, en utilisant dans l'image la commande `cat /etc/os-release` ce qui nous donne:
 
-```NAME="Alpine Linux"
+```
+NAME="Alpine Linux"
 ID=alpine
 VERSION_ID=3.15.4
 PRETTY_NAME="Alpine Linux v3.15"
