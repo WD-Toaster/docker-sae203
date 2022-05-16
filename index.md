@@ -6,9 +6,20 @@ Nous allons faire un compte rendu de cette SAE sur cette page gitgub, cela perme
 - Quentin Spilmont
 - Hugo Tassery 
 
+## Mardi 10 Mai
+Nous avons fait le TP4 et TP5 de l'introduction a GIT. C'était les derniers à ce propos.
+Le TP4 consiste à résoudre un conflit dans la modification d'un fichier et le TP5 présente la création de page internet à partir d'un référentiel Github.
+
+## Lundi 16 Mai
+
+
+## Mardi 17 Mai
+
+
+## Mercredi 18 Mai
+
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -27,5 +38,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
