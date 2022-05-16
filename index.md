@@ -1,6 +1,6 @@
 # SAE 2.03 - Instalation de service réseau
 
-Nous allons faire un compte rendu de cette SAE sur cette page gitgub, cela permettra d'expliqué le déroulement des étapes que l'on as fait.
+Nous allons faire un compte rendu de cette SAE sur cette page gitgub, cela permettra d'expliqué le déroulement des étapes que l'on as fait. Bonjour
 ## Participants:
 - Codrin Potdevin
 - Quentin Spilmont
