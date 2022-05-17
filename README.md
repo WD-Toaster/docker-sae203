@@ -17,3 +17,7 @@
 10. Saisissez la commande pour vérifier la version du serveur : docker --version
 
 *Italic*Sur sa machine personnelle
+
+1. Téléchargez Docker à partir de https://www.docker.com/get-started/
+2. Lancez Docker et connectez-vous quand cela vous sera demandé
+3. 
