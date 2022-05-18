@@ -12,7 +12,6 @@
 7. Dans un nouveau terminal, saisissez la commande : `ssh di-docker ls -la`.
 8. Retournez sur le premier terminal et saisissez la commande : `.ssh/known_hosts`.
 9. Saisissez : *yes*.
-10. Saisissez la commande pour vérifier la version du serveur : `docker --version`.
 
 ## Machine personnelle
 
