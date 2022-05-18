@@ -1,5 +1,8 @@
 FROM debian:latest
 
+RUN cd home && mkdir video
+COPY ./video/ /home/video/
+
 RUN apt update && apt upgrade -y
 
 RUN apt install apt-transport-https ca-certificates gnupg2 curl git -y
@@ -12,6 +15,6 @@ RUN echo "deb [arch=$( dpkg --print-architecture ) signed-by=/usr/share/keyrings
 RUN apt update -y && apt install jellyfin -y 
 
 RUN apt install systemctl -y
-RUN systemctl start jellyfin
+CMD [ "systemctl", "start", "jellyfin" ]
 
 EXPOSE 8096
