@@ -15,8 +15,6 @@
 
 ## Machine personnelle
 
-*Les étapes sont quasi-similaire*
-
 1. Téléchargez Docker en cliquant sur [ce lien](https://www.docker.com/get-started/).
 
 ### Windows
