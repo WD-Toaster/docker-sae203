@@ -80,7 +80,8 @@ RUN systemctl start jellyfin
 EXPOSE 8096
 ```
 
-Cependant le fichier se lancer uniquement via l'interface graphique de Docker. Il a fallut que je remplace le `RUN systemctl start jellyfin` par `CMD [ "systemctl", "start", "jellyfin" ]` pour que le programme se lance en premier plan (et pas arrière plan) et le conteneur tourné en continue sans soucis
+Cependant le fichier se lancer uniquement via l'interface graphique de Docker (autrement avec un `docker run` il se lancer puis se fermer directement avec un *exit(0)*, Nous pouvions lui donné la commande manquante `systemctl start jellyfin` via le *CLI* (Command-Line Interface). 
+Il a fallut que je remplace le `RUN systemctl start jellyfin` par `CMD [ "systemctl", "start", "jellyfin" ]` pour que le programme se lance en premier plan (et pas arrière plan) et le conteneur tourné en continue sans soucis
 
 - .
 - .
