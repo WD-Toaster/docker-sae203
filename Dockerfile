@@ -1,7 +1,9 @@
 FROM debian:latest
 
-RUN cd home && mkdir video
+RUN cd home && mkdir video && mkdir image && mkdir musique
 COPY ./video/ /home/video/
+COPY ./images/ /home/image/
+COPY ./musique/ /home/musique/
 
 RUN apt update && apt upgrade -y
 
