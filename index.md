@@ -49,7 +49,7 @@ Une fois le docker file rempli on la construit avec `docker build -t jellyfin .`
 
 1. Faire un `docker run --name jellyfin-test -p 8096:8096 jellyfin` pour démarrer un conteneur avec l'image de jellyfin.
 2. Se rendre sur son navigateur et allé soit sur `localhost:8096` ou soit sur `http://127.0.0.1:8096`.
-3. Logiquement suffit juste de créer des répertoire de média et *"la base"* est la.
+3. Logiquement suffit juste de créer des bibliothèque de média et *"la base"* est la.
 
 ## Troubleshooting
 
